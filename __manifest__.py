@@ -6,7 +6,7 @@
     'sequence': -100,
     'description': """Módulo de ejemplo para mostrar 'Hello World'""",
     'category': 'Uncategorized',
-    'author': 'Tu Nombre',
+    'author': 'Alphaqueb',
     'website': 'http://www.tuwebsite.com',
     'depends': ['base'],
     'data': [
