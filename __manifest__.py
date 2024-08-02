@@ -10,6 +10,7 @@
     'website': 'http://www.tuwebsite.com',
     'depends': ['base'],
     'data': [
+        'security/ir.model.access.csv',
         'views/hello_world_view.xml',
     ],
     'installable': True,
